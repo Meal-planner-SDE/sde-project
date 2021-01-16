@@ -1,0 +1,18 @@
+[submodule "shopping-list"]
+	path = shopping-list
+	url = https://github.com/Meal-planner-SDE/shopping-list
+[submodule "meal-planner"]
+	path = meal-planner
+	url = https://github.com/Meal-planner-SDE/meal-planner
+[submodule "osm-adapter"]
+	path = osm-adapter
+	url = https://github.com/Meal-planner-SDE/osm-adapter
+[submodule "spoonacular-adapter"]
+	path = spoonacular-adapter
+	url = https://github.com/Meal-planner-SDE/spoonacular-adapter
+[submodule "internal-db-adapter"]
+	path = internal-db-adapter
+	url = https://github.com/Meal-planner-SDE/internal-db-adapter
+[submodule "internal-db"]
+	path = internal-db
+	url = https://github.com/Meal-planner-SDE/internal-db

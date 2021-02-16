@@ -16,3 +16,6 @@
 [submodule "internal-db"]
 	path = internal-db
 	url = git@github.com:Meal-planner-SDE/internal-db.git
+[submodule "meal-planner-bot"]
+	path = meal-planner-bot
+	url = git@github.com:Meal-planner-SDE/meal-planner-bot.git

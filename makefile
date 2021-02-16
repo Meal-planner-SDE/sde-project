@@ -6,3 +6,4 @@ pull:
 	cd osm-adapter && git checkout main && git pull
 	cd shopping-list && git checkout main && git pull
 	cd spoonacular-adapter && git checkout main && git pull
+	cd meal-planner-bot && git checkout main && git pull
